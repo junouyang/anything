@@ -1,0 +1,5 @@
+Process cpu %
+select node_id, avg(sum_val / count_val)  from  metricdata_min where metric_id in (select id from metric where name like 'JVM|Process CPU Usage %') and ts_min > floor((unix_timestamp() / 60) - 4*60) group by node_id by node_id;
+
+Heap Usage %
+select node_id, avg(sum_val / count_val)  from  metricdata_min where metric_id in (select id from metric where name like 'JVM|Memory:Heap|Used %') and ts_min > floor((unix_timestamp() / 60) - 4*60) group by node_id by node_id;

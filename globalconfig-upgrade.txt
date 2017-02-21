@@ -1,0 +1,180 @@
+aas.discovery.acl.token,Action service discovery consul authentication token,
+aas.max.service.retry,Max attempt to retry Action Service Execution on failure,2
+aas.multitenant.custom.action.local.execution.enabled,Enable or disable local execution of custom action on a multi-tenant controller,true
+aas.read.time.out.millis,Action service read time out in Millis,300000
+aas.remote.execution.enabled,Enable or disable remote action service execution,false
+aas.service.acl.token,Action service authentication token,
+aas.service.discovery.host,appdynamics.controller.aas.service.discovery.hostname,https://consul.api.appdynamics.com:443
+aas.service.execution.host,appdynamics.controller.aas.service.execution.hostname,https://actionservice.api.appdynamics.com:443
+account.purge.application.limit,Set a bucket size for number of applications per single account purge iteration,10
+agent.restart.interval,Time (in minutes) between processing batches of agent restart requests,5
+agent.session.timeout,Agent inactivity timeout for controller in seconds,300
+analytics.scheduledqueries.batch.size,Number of queries to be batched as a single multi-search request ,5
+app.agent.in-progress.actions.timeout,Controller timeout (in msec) for IN_PROGRESS app agent actions,86400000
+app.agent.max.new.actions.per.min,Maximum number of new actions dispatched per minute for each app agent,5
+app.agent.pending.actions.timeout,Controller timeout (in msec) for PENDING app agent actions,1800000
+appdynamics.analytics.local.store.controller.key,Key to sync controller and local events service,
+appdynamics.analytics.local.store.url,Location of local events service,
+appdynamics.analytics.server.store.controller.key,Key to sync controller and remote events service,
+appdynamics.analytics.server.store.url,Location of remote events service,
+appdynamics.es.eum.key,Key to sync eum and events service,
+application.batch.import.feature,Is Application import beta feature enabled? (true|false),false
+application.diagnostic.data.retention.period.after.jvm.restart,Time (in hours) after which the automatic leak detection objects are deleted after jvm restart.,0
+appserver.mode,Application Server Mode to track the server state,active
+async.thread.tracking.registration.limit,The maximum number of async threads that may be registered and tracked per account,1000
+audit.enabled,Enable or disable audit logging,true
+audit.log.file.enabled,Enable logging audit information into a file.,true
+audit.log.file.location,Audit log file location (empty value means $CONTROLLER_HOME/logs/audit.log),
+audit.log.file.size,Maximum log file size for audit logging.,50000000
+audit.log.retention.period,Audit log retention period in hours,720
+backend.config.resolution.interval,Interval to randomize in mins in which controller will check and process the agent's request to get updated backend resolution information,0
+backend.permanent.deletion.period,Time (in hours) after which a backend that has lost contact with the controller is deleted permanently from the system.,720
+backend.registration.limit,The maximum number of Backend Registrations that may be allowed per application,5000
+baseline.cache.retention.period,Time (in hours) to retain caches in memory for baselines,24
+blitz_enabled,boolean to indicate whether metric data persistence to blitz is enabled,false
+bt.metric.cache.enabled,Flag to enable-disable caching BT metrics,true
+business.transaction.retention.period,Time (in hours) after which the business transaction is deleted.,0
+caches.retention.period,Time (in hours) to retain caches in memory for metrics,24
+collections.ADD.registration.limit,The maximum number of collection ADDs that may be registered and tracked per account,4000
+concurrent.agent.restarts,Number of agent restart requests processed at a time,100
+controller.id,id for the controller,OnPremiseController
+controller.server.identifier,Controller server id,
+controller.vendor.identifier,Controller vendor id,
+custom.action.max.new.actions.per.min,Maximum number of custom actions dispatched per minute for each account,200
+dbmon.config.max.custommetric,Maximum number of custom metric for a DBMon config,20
+dbmon.controller.url,Controller URL used by DBMon Service,
+dbmon.event.publisher.asynctask.batch.size,Batch size for each async event publishing task triggered by DBMon,500000
+dbmon.event.publisher.asynctask.interval,DBMon async event publishing task interval,5
+dbmon.event.publisher.esclient.batch.size,Batch size for each ES client used by DBMon,1500
+dbmon.event.publisher.queue.size,Max measurement queue size maintained by DBMon for each account,100000
+dbmon.event.publisher.thread.count,Async publisher thread count,4
+dbmon.service.url,Location of the Database Monitoring service,http://localhost:9092
+dbtuna.integration.configuration,dbtuna integration configuration string to map dbtuna objects,
+dbtuna.integration.enabled,Boolean to specify whether dbtuna integration is supported or not.,false
+dbtuna.integration.url,dbtuna integration url used to back link to third party website,
+digest.thread.pool.size,Size of Thread Pool for Digest Processing,4
+disable.application.flow.map,Disable the Application Flow Map in the UI (it will not show for any user),false
+disable.dashboard.metrics.caching,Disable metrics caching for dashboards? (true|false),false
+disable.historic.transactional.flow,If true UI shows only the time ranges which are within the cacheable time range as defined by the caches.retention.period property,false
+error.registration.limit,The maximum number of errors that may be registered and tracked per account,4000
+eum.adrumextension.urltemplate,appdynamics.controller.eum.adrumextension.urltemplate,cdn.appdynamics.com
+eum.adrumextension.urltemplate.https,appdynamics.controller.eum.adrumextension.urltemplate.https,cdn.appdynamics.com
+eum.beacon.host,appdynamics.controller.eum.beacon.hostname,col.eum-appdynamics.com
+eum.beacon.https.host,appdynamics.controller.eum.beacon.https.hostname,col.eum-appdynamics.com
+eum.cloud.host,appdynamics.controller.eum.cloud.hostname,agg.eum-appdynamics.com
+eum.es.host,appdynamics.controller.eum.event.service.hostname,analytics.api.appdynamics.com
+eventcounts.cache.retention.period,Time (in hours) to retain caches in memory for event counts,336
+eventdata.max.query.attempts,EventData Query Max Query Attempts,6
+eventdata.query.min.rows,EventData Query Minimal ResultSet Size,200
+eventdata.query.optimize.on,EventData Query Optimization,true
+eventdata.timebucket.size,EventData Query TimeBucket Size in Msecs,3600000
+events.buffer.size,Size of in-memory buffer (in Megabytes) storing events uploaded from agents prior to database flush.,80
+events.cache.retention.period,Time (in hours) to retain caches in memory for events,24
+events.notification.clamp.size,The maximum number of event summaries displayed in the events notification emails.,100
+events.query.fastpath,Event SQL Fast Path queries,true
+events.query.max.result.size,Event SQL maximum query retrieval size,5000
+events.retention.period,Time (in hours) to retain events before they are purged from the system.,336
+events.upload.limit.per.min,The maximum number of events that may be uploaded per minute per num of license units in the account,500
+eventsvc.event.max.retrieval.size,Max number of events that can be retrieved from event service in a query,5000
+eventsvc.read.enabled,Event and Snapshot queries managed via Event Service,false
+eventsvc.request.segment.data.max.retrieval.size,Max number of request segment data that can be retrieved from event service in a query,5000
+eventsvc.verification.url,URL of controller event verification service, http://host:port/verification,
+eventsvc.write.enabled,Event and Snapshot writes managed via Event Service,false
+ha.controller.type,Controller high availability mode (notapplicable, primary, secondary).,notapplicable
+health.rule.thread.pool.size,Size of Thread Pool for Health Rule Processing,4
+hotspots.learning.enabled,Flag indicating if hot spots learning is enabled (true|false),true
+http.session.inactive.timeout,Http Session Timeout for Controller in Seconds,3600
+incidents.retention.period,Time (in hours) to retain incidents before they are purged from the system.,336
+license.usage.account.name,account name used for persisting license usage data,
+license.usage.application.name,application name used for persisting license usage data,
+license.usage.data.retention.period,Hours to retain the data for 5 minute license data storage table,2
+license.usage.node.name,node name used for persisting license usage data,
+license.usage.persist,tracks license usage (true|false),true
+license.usage.tier.name,tier name used for persisting license usage data,
+load.e2e.data.enabled,Loading of End To End latency and user experience enabled for first in chain RSDs.,true
+machine.agent.in-progress.actions.timeout,Controller timeout (in msec) for IN_PROGRESS machine agent actions,86400000
+machine.agent.max.new.actions.per.min,Maximum number of new actions dispatched per minute for each machine agent,15
+machine.agent.pending.actions.timeout,Controller timeout (in msec) for PENDING machine agent actions,1800000
+machine.snapshots.buffer.size,Size of in-memory buffer (in Megabytes) storing machine snapshots uploaded from agents prior to database flush.,50
+machine.snapshots.retention.period,Time (in hours) to retain machine snapshots before they are purged from the system.,336
+mail.smtp.connectiontimeout,Time (in msec) after which a connection attempt to the SMTP server will timeout.,15000
+mail.smtp.socketiotimeout,Time (in msec) after which a blocking socket operation will timeout.,30000
+max.actions.per.min.per.event,Maximum number of actions per minute for each type of event,-1
+max.email.actions.per.min,Control max Email actions per min per account,2147483647
+max.http.actions.per.min,Control max HTTP actions per min per account,2147483647
+max.number.of.dotnet.appagent.license.units.per.machine,Maximum number of DotNet license units (node agents) per machine agent,0
+max.sms.actions.per.min,Control max SMS actions per min per account,2147483647
+memory.ADD.registration.limit,The maximum number of memory ADDs that may be registered and tracked per account,4000
+metric.registration.limit,The maximum number of metrics that may be dynamically registered per account,2000000
+metrics.buffer.size,Size of in-memory buffer (in Megabytes) storing metric data values uploaded from agents prior to database flush.,40
+metrics.min.retention.period,Time (in hours) to retain minute metric data values before they are purged from the system.,4
+metrics.retention.period,Time (in days) to retain hour metric data values before they are purged from the system.,365
+metrics.ten.min.retention.period,Time (in hours) to retain ten minute metric data values before they are purged from the system.,48
+msds.upload.limit.per.min,The maximum number of machine snapshots that may be uploaded per minute per num of license units in the account,500
+multitenant.controller,Is the controller running in multi-tenancy mode? (true|false),false
+node.permanent.deletion.period,Time (in hours) after which a node that has lost contact with the controller is deleted permanently from the system.,720
+node.retention.period,Time (in hours) after which a node that has lost contact with the controller is marked deleted.,500
+performance.profile,Controller performance configuration (small, medium, large) based on the size of the controller machine and the number of supported agents.,medium
+policy.thread.pool.size,Size of Thread Pool for Policy Processing,4
+process.snapshots.buffer.size,Size of in-memory buffer (in Megabytes) storing process snapshots uploaded from agents prior to database flush.,1
+process.snapshots.retention.period,Time (in hours) to retain process snapshots before they are purged from the system.,336
+psds.upload.limit.per.min,The maximum number of process snapshots that may be uploaded per minute per num of license units in the account,500
+push.notification.device.stale.duration,Duration (in days) after which device will be marked as stale (for push notification) if it hasn't connected to controller,15
+push.notification.service.enabled,Flag to enable-disable Mobile Push Notification Service,false
+push.notification.service.uri,Mobile Push Notification Service URI,https://mobile-push.api.appdynamics.com
+read.thread.count,The count of parallel threads to be used for large object reads.,1
+reports.enabled,Report Service enable flag.,true
+reports.host.http,Report Service host and port information for the HTTP connection.,http://localhost:8020/
+reports.host.https,Report Service host and port information for the HTTPS connection.,https://localhost:8021/
+reports.httpfallback.enabled,Enable HTTP if HTTPS connection fails.,true
+requestdata.timebucket.size.minutes,query time bucket size in minutes, 0 or less means disabled,15
+rsd.cache.retention.period,Time (in hours) to retain caches in memory for requests,24
+rsds.upload.limit.per.min,The maximum number of requests that may be uploaded per minute per num of license units in the account,500
+scs.keystore.password,Secure Credential Store Keystore password.,AppDynamics
+security.patch.fixed.saml.user.password,Security fix - Flag indicating if patch applied to fix saml user password (true|false),false
+sep.ADD.registration.limit,The maximum number of Service Endpoint ADDs that may be registered and tracked per account,4000
+sim.background.processing.batchSize,The max number of background tasks that should be processed in each batch,100
+sim.background.queue.maxSize,The size of the queue to which background tasks are submitted (restart required),50000
+sim.exceptions.stacktrace.enabled,Run SIM in debug mode - returns stacktrace to the client.,false
+sim.machines.agent.process.maxClasses,Maximum number of process classes, each SIM-enabled MA will monitor. Overrides the local settings on each machine,20
+sim.machines.bridge.pre42.registration,Should machine agents older than v 4.2 report to the Servers page,true
+sim.machines.count.maxPerAccount,Maximum total number of machines allowed per account.,2000
+sim.machines.dotnet.hostIdConflictCheckAllowed,machine agents without dotnetCompatibility mode enabled fail to start when a dotnet agent exists on the same host,true
+sim.machines.hostIdMappingAllowed,Machine agents can request to run on the same host as a dotnet agent,true
+sim.machines.offline.toStaleTimeoutMillis,Length of time in milliseconds before an offline machine is considered stale, and hence eligible for purging.,2592000000
+sim.machines.registrations.maxPerSecondPerAccount,Maximum number of machine registrations allowed per account per second.,60
+sim.machines.simAllowed,All Server Monitoring features will be available on sim-enabled machines,true
+sim.machines.stale.purgeIntervalMillis,Length of time in milliseconds to wait between purging machines for an account.,21600000
+sim.metrics.duplication.rules.cache.maxAccounts,The maximum number of accounts kept in the metric duplication rule cache,1000
+sim.metrics.duplication.rules.cache.refreshMillis,The amount of time, in milliseconds after which cache entries are reloaded from the database,600000
+sim.metrics.duplication.rules.useRulesForFilteringMetricsToDuplicate,Should metric duplication rules be used to determine which metrics should be copied to applications,true
+sim.metrics.maxPerMachineInCache,The maximum number cached sim metrics per machine per account (restart required),10000
+sim.metrics.remap.maxAppsToRemap,The maximum number of apps that can cache sim metric mappings for an account (restart required),10000
+sim.metrics.remap.maxSimMetricsToRemapPerApp,The maximum number cached sim metrics to be copied to an app (restart required),250000
+sim.metrics.remapAllowed,Allows machine agent metrics to be remapped to multiple applications on the same host,true
+sim.metrics.store.customMetrics.simNodeEnabled,Enable storing Custom Metrics for Sim Node in Server Monitoring,true
+sim.metrics.trackRegisteredEnabled,Should registered metrics be tracked by machine,true
+sim.processes.count.maxPerAccount,Maximum total number of processes allowed per account.,300000
+sim.processes.count.maxPerMachine,The maximum total processes allowed per machine.,1000
+sim.processes.creation.maxConcurrent,The maximum number of processes that can be created concurrently.,5000
+sim.processes.creation.minLiveTimeAllowedMillis,The minimum amount of time a process must be alive before it is stored.,60000
+sim.processes.delete.maxCount,The maximum number of processes that can be deleted in a single operation.,5000
+sim.processes.query.maxResultLimit,Maximum number of processes queried from database.,5000
+sim.processes.registrations.maxPerSecondPerAccount,Maximum number of process registration requests allowed per account per second per machine.,60
+sim.processes.stale.purgeIntervalMillis,Length of time between deleting stale processes for an account.,3600000
+sim.processes.terminated.toStaleTimeoutMillis,Length of time before a terminated process becomes stale in milliseconds.,604800000
+sim.sam.config.maxDownloadSize,Maximum size of response content, in bytes, that is stored in the database per ping,5000
+snapshots.buffer.size,Size of in-memory buffer (in Megabytes) storing snapshots uploaded from agents prior to database flush.,150
+snapshots.retention.period,Time (in hours) to retain snapshots before they are purged from the system.,336
+stacktrace.ADD.registration.limit,The maximum number of stack traces that may be registered and tracked per account,4000
+system.notification.event.types,Comma separated list of Event Types (with no spaces between each) that will shown as System Notifications in the UI.,LICENSE,DISK_SPACE,CONTROLLER_AGENT_VERSION_INCOMPATIBILITY,CONTROLLER_EVENT_UPLOAD_LIMIT_REACHED,CONTROLLER_RSD_UPLOAD_LIMIT_REACHED,CONTROLLER_METRIC_REG_LIMIT_REACHED,CONTROLLER_METRIC_DATA_BUFFER_OVERFLOW,CONTROLLER_ERROR_ADD_REG_LIMIT_REACHED,CONTROLLER_ASYNC_ADD_REG_LIMIT_REACHED,AGENT_ADD_BLACKLIST_REG_LIMIT_REACHED,AGENT_METRIC_BLACKLIST_REG_LIMIT_REACHED,CONTROLLER_STACKTRACE_ADD_REG_LIMIT_REACHED,CONTROLLER_SEP_ADD_REG_LIMIT_REACHED,CONTROLLER_MEMORY_ADD_REG_LIMIT_REACHED,CONTROLLER_TRACKED_OBJECT_ADD_REG_LIMIT_REACHED,CONTROLLER_COLLECTIONS_ADD_REG_LIMIT_REACHED
+system.use.notification.message,Post-login message which is displayed every time a user logs in, informing the user of the system of its usage requirements,
+tracked.object.ADD.registration.limit,The maximum number of tracked object ADDs that may be registered and tracked per account,4000
+tss.buffer.size,Size of in-memory buffer (in Megabytes) storing top summary stats data values uploaded from agents prior to database flush.,40
+tss.detailstring.retention.size,Total count 1 million records / 50000 by ID for tss detail string data values before they are purged from the system.,20
+tss.retention.period,Time (in hours) to retain 12 hour tss data values before they are purged from the system.,336
+ui.inactivity.timeout,UI user inactivity timeout for controller in seconds,-1
+usage.data.enabled.onprem,Enable or disable reporting statistics to AppDynamics (Onpremise Pro users only),false
+usage.data.enabled.saas,Enable or disable reporting statistics to AppDynamics (SaaS customers only),true
+write.thread.count,The count of parallel threads to be used for large object writes.,1
+

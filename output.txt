@@ -1,0 +1,6 @@
+curl -u 'user1@customer1:welcome' -X POST -H "Content-Type:application/vnd.appd.cntrl+json;v=1" -d '{"name": "Federation key1"}' "http://localhost:8080/api/accounts/2/apikey/4796c90d-da28-4bc4-83f2-0eb8d379577d"
+
+
+
+
+curl -u 'user1@customer1:welcome' -X PUT "http://localhost:8080/api/accounts/2/apikey/<UUID>/roles?role-name=Federation%20Administrator"

@@ -1,0 +1,487 @@
+{
+  "nodes": [
+    {
+      "id": "Type:APPLICATION, id:25",
+      "flowMapNodeType": "MAIN_DASHBOARD_NODE",
+      "name": "Yet Another ACME Book Store Application_Downstream_federation_account4",
+      "viewPermission": true,
+      "preferenceValue": {
+        "position": {
+          "x": 719.1419,
+          "y": 245.73904,
+          "z": 0
+        },
+        "uid": "Type:APPLICATION, id:25",
+        "hidden": false,
+        "groupable": false
+      },
+      "idNum": 25,
+      "entityType": "APPLICATION",
+      "agentType": null,
+      "componentType": null,
+      "backendType": null,
+      "nodeCount": 1,
+      "componentCount": 1,
+      "startComponent": false,
+      "percentTimeDistribution": 0,
+      "requestedEntity": false,
+      "onSnapshotFlow": false,
+      "requestSegmentDataItems": null,
+      "eumSnapshotData": null,
+      "crossApplicationSnapshots": null,
+      "exitEntities": null,
+      "exitPointCall": null,
+      "stats": {
+        "averageResponseTime": {
+          "metricValue": 304,
+          "metricId": 3133
+        },
+        "callsPerMinute": {
+          "metricValue": 283,
+          "metricId": 3136
+        },
+        "errorsPerMinute": {
+          "metricValue": 283,
+          "metricId": 3142
+        },
+        "numberOfErrors": {
+          "metricValue": 104777,
+          "metricId": -1
+        },
+        "numberOfCalls": {
+          "metricValue": 104855,
+          "metricId": -1
+        },
+        "transactionStats": null,
+        "asyncTransactionStats": null
+      },
+      "baselineStats": null,
+      "componentHealthStats": {
+        "normalNodes": 0,
+        "warningNodes": 1,
+        "criticalNodes": 0,
+        "unknownNodes": 0
+      },
+      "healthState": null,
+      "componentThreadStats": null,
+      "hasTransactionStats": false,
+      "incidentSummary": {
+        "critical": 0,
+        "warning": 1,
+        "info": 0,
+        "currentlyOpen": 0,
+        "total": 1,
+        "performanceState": "WARNING"
+      },
+      "transactionSummary": {
+        "normal": 1,
+        "warning": 0,
+        "critical": 0,
+        "undefined": 0,
+        "unknown": 0
+      },
+      "overallState": null,
+      "isAgentUp": false,
+      "netVizGraphNode": null,
+      "isExternalEntity": false,
+      "remoteUrl": null,
+      "accountName": null,
+      "remoteEntityId": 0,
+      "$$edges": [
+        {
+          "sourceNode": "Type:FEDERATED_APPLICATION, id:1",
+          "targetNode": "Type:APPLICATION, id:25",
+          "linkType": "STANDARD",
+          "source": {
+            "id": "Type:FEDERATED_APPLICATION, id:1",
+            "flowMapNodeType": "MAIN_DASHBOARD_NODE",
+            "name": "ACME Book Store Application_Upstream_federation_account1@federation_account1",
+            "viewPermission": false,
+            "preferenceValue": {
+              "position": {
+                "x": 1042.1062,
+                "y": 356.07874,
+                "z": 0
+              },
+              "uid": "Type:FEDERATED_APPLICATION, id:1",
+              "hidden": false,
+              "groupable": false
+            },
+            "idNum": 1,
+            "entityType": "FEDERATED_APPLICATION",
+            "agentType": null,
+            "componentType": null,
+            "backendType": null,
+            "nodeCount": 1,
+            "componentCount": 1,
+            "startComponent": false,
+            "percentTimeDistribution": 0,
+            "requestedEntity": false,
+            "onSnapshotFlow": false,
+            "requestSegmentDataItems": null,
+            "eumSnapshotData": null,
+            "crossApplicationSnapshots": null,
+            "exitEntities": null,
+            "exitPointCall": null,
+            "stats": {
+              "averageResponseTime": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "callsPerMinute": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "errorsPerMinute": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "numberOfErrors": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "numberOfCalls": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "transactionStats": null,
+              "asyncTransactionStats": null
+            },
+            "baselineStats": null,
+            "componentHealthStats": {
+              "normalNodes": 0,
+              "warningNodes": 1,
+              "criticalNodes": 0,
+              "unknownNodes": 0
+            },
+            "healthState": null,
+            "componentThreadStats": null,
+            "hasTransactionStats": false,
+            "incidentSummary": null,
+            "transactionSummary": {
+              "normal": 1,
+              "warning": 0,
+              "critical": 0,
+              "unknown": 0
+            },
+            "overallState": null,
+            "isAgentUp": false,
+            "netVizGraphNode": null,
+            "isExternalEntity": true,
+            "remoteUrl": "localhost:8080",
+            "accountName": "federation_account1",
+            "remoteEntityId": 23,
+            "$$edges": [
+              null
+            ],
+            "nodeDegree": 1,
+            "x": 1042.1062,
+            "y": 356.07874,
+            "fixed": true,
+            "px": 1042.1062,
+            "py": 356.07874,
+            "index": 2
+          },
+          "sourceNodeDefinition": {
+            "id": 0,
+            "version": 0,
+            "entityType": "FEDERATED_APPLICATION",
+            "entityId": 1,
+            "prettyToString": null
+          },
+          "targetNodeDefinition": {
+            "id": 0,
+            "version": 0,
+            "entityType": "APPLICATION",
+            "entityId": 25,
+            "prettyToString": null
+          },
+          "stats": [
+            {
+              "averageResponseTime": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "callsPerMinute": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "errorsPerMinute": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "numberOfErrors": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "numberOfCalls": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "transactionStats": null,
+              "asyncTransactionStats": null,
+              "async": false,
+              "exitPointCall": {
+                "exitPointType": "WEB_SERVICE",
+                "customExitPointDefinitionId": 0,
+                "customExitPoint": false,
+                "synchronous": true
+              },
+              "upstreamCrossAppCallingEntity": null,
+              "upstreamCrossAppCallingEntityName": null
+            }
+          ],
+          "baselineStats": [],
+          "netVizGraphEdge": null,
+          "aggregatedEdges": [],
+          "synchronous": true,
+          "aggregated": false,
+          "textPosX": 880.6240499999999,
+          "textPosY": 300.90889
+        },
+        {
+          "sourceNode": "Type:FEDERATED_APPLICATION, id:4",
+          "targetNode": "Type:APPLICATION, id:25",
+          "linkType": "STANDARD",
+          "source": {
+            "id": "Type:FEDERATED_APPLICATION, id:4",
+            "flowMapNodeType": "MAIN_DASHBOARD_NODE",
+            "name": "ACME Book Store Application_Upstream_federation_account2@federation_account2",
+            "viewPermission": false,
+            "preferenceValue": {
+              "position": {
+                "x": 407.3036,
+                "y": 381.6837,
+                "z": 0
+              },
+              "uid": "Type:FEDERATED_APPLICATION, id:4",
+              "hidden": false,
+              "groupable": false
+            },
+            "idNum": 4,
+            "entityType": "FEDERATED_APPLICATION",
+            "agentType": null,
+            "componentType": null,
+            "backendType": null,
+            "nodeCount": 1,
+            "componentCount": 1,
+            "startComponent": false,
+            "percentTimeDistribution": 0,
+            "requestedEntity": false,
+            "onSnapshotFlow": false,
+            "requestSegmentDataItems": null,
+            "eumSnapshotData": null,
+            "crossApplicationSnapshots": null,
+            "exitEntities": null,
+            "exitPointCall": null,
+            "stats": {
+              "averageResponseTime": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "callsPerMinute": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "errorsPerMinute": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "numberOfErrors": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "numberOfCalls": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "transactionStats": null,
+              "asyncTransactionStats": null
+            },
+            "baselineStats": null,
+            "componentHealthStats": {
+              "normalNodes": 0,
+              "warningNodes": 1,
+              "criticalNodes": 0,
+              "unknownNodes": 0
+            },
+            "healthState": null,
+            "componentThreadStats": null,
+            "hasTransactionStats": false,
+            "incidentSummary": null,
+            "transactionSummary": {
+              "normal": 1,
+              "warning": 0,
+              "critical": 0,
+              "unknown": 0
+            },
+            "overallState": null,
+            "isAgentUp": false,
+            "netVizGraphNode": null,
+            "isExternalEntity": true,
+            "remoteUrl": "localhost:8080",
+            "accountName": "federation_account2",
+            "remoteEntityId": 24,
+            "$$edges": [
+              null
+            ],
+            "nodeDegree": 1,
+            "x": 407.3036,
+            "y": 381.6837,
+            "fixed": true,
+            "px": 407.3036,
+            "py": 381.6837,
+            "index": 1
+          },
+          "sourceNodeDefinition": {
+            "id": 0,
+            "version": 0,
+            "entityType": "FEDERATED_APPLICATION",
+            "entityId": 4,
+            "prettyToString": null
+          },
+          "targetNodeDefinition": {
+            "id": 0,
+            "version": 0,
+            "entityType": "APPLICATION",
+            "entityId": 25,
+            "prettyToString": null
+          },
+          "stats": [
+            {
+              "averageResponseTime": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "callsPerMinute": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "errorsPerMinute": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "numberOfErrors": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "numberOfCalls": {
+                "metricValue": -1,
+                "metricId": -1
+              },
+              "transactionStats": null,
+              "asyncTransactionStats": null,
+              "async": false,
+              "exitPointCall": {
+                "exitPointType": "WEB_SERVICE",
+                "customExitPointDefinitionId": 0,
+                "customExitPoint": false,
+                "synchronous": true
+              },
+              "upstreamCrossAppCallingEntity": null,
+              "upstreamCrossAppCallingEntityName": null
+            }
+          ],
+          "baselineStats": [],
+          "netVizGraphEdge": null,
+          "aggregatedEdges": [],
+          "synchronous": true,
+          "aggregated": false,
+          "textPosX": 563.22275,
+          "textPosY": 313.71137
+        }
+      ],
+      "nodeDegree": 2,
+      "x": 719.1419,
+      "y": 245.73904,
+      "fixed": true,
+      "px": 719.1419,
+      "py": 245.73904,
+      "index": 0
+    },
+    null,
+    null
+  ],
+  "edges": [
+    null,
+    null
+  ],
+  "properties": {
+    "definition": {
+      "id": 0,
+      "version": 0,
+      "entityType": "ACCOUNT",
+      "entityId": 8,
+      "prettyToString": null
+    },
+    "preference": {
+      "groupBackendsByType": true,
+      "minimumBackendGroupSize": 2,
+      "members": [
+        {
+          "position": {
+            "x": 719.1419,
+            "y": 245.73904,
+            "z": 0
+          },
+          "uid": "Type:APPLICATION, id:25",
+          "hidden": false,
+          "groupable": false
+        },
+        {
+          "position": {
+            "x": 407.3036,
+            "y": 381.6837,
+            "z": 0
+          },
+          "uid": "Type:FEDERATED_APPLICATION, id:4",
+          "hidden": false,
+          "groupable": false
+        },
+        {
+          "position": {
+            "x": 1042.1062,
+            "y": 356.07874,
+            "z": 0
+          },
+          "uid": "Type:FEDERATED_APPLICATION, id:1",
+          "hidden": false,
+          "groupable": false
+        }
+      ],
+      "useDottedLineAsync": false,
+      "persistZoomAndPan": false,
+      "position": null,
+      "zoom": 0,
+      "componentFilter": null,
+      "backendFilter": null,
+      "applicationFilter": null,
+      "ungroupableBackends": null,
+      "javaVisible": true,
+      "dotNetVisible": true,
+      "databaseVisible": true,
+      "messagingVisible": true,
+      "webVisible": true,
+      "loadVisible": true,
+      "otherVisible": true,
+      "nodejsVisible": true,
+      "phpVisible": true
+    },
+    "shared": false,
+    "defaultValue": true,
+    "ownsFlow": true,
+    "name": "Default Flow Map",
+    "mapId": 4
+  },
+  "statsAvailable": false,
+  "comparedWithBaseline": false,
+  "baselineReasonText": null,
+  "totalTransactionTime": 0,
+  "name": "federation_account4",
+  "largeFlowmap": false,
+  "asyncFetchingSession": "c8227d5b-a7a3-4801-82c5-d94aa5a2d591",
+  "emptyText": "No load detected for the time range",
+  "autoRefresh": false,
+  "filterElementsWithNoStats": true,
+  "filteredItemsCount": 0
+}

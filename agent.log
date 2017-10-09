@@ -1,0 +1,48 @@
+    public static String getFederatedWildcardMetricsPrefix(TransactionFlowItemIdentifier callerEntityId,
+            TransactionFlowItemIdentifier calleeEntityId, boolean forTier) {
+        // Upstream side
+        if (calleeEntityId.getEntityType() == EntityType.FEDERATED_ACCOUNT) {
+            return BusinessTransactionEntity.BT_METRIC_CATEGORY_PREFIX +
+                    KAppServerConstants.MYSQL_WILDCHARD_CHAR +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR_CHAR + COMPONENT_CATEGORY_NAME +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR + callerEntityId +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR_CHAR + EXIT_CALL_CATEGORY_NAME +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR +
+                    KAppServerConstants.MYSQL_WILDCHARD_CHAR +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR_CHAR + EXIT_CALL_TO_CATEGORY_NAME +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR + calleeEntityId +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR;
+        }
+        // Downstream
+        if(forTier) {
+            return BusinessTransactionEntity.BT_METRIC_CATEGORY_PREFIX +
+                    KAppServerConstants.MYSQL_WILDCHARD_CHAR +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR_CHAR + COMPONENT_CATEGORY_NAME +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR + calleeEntityId +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR_CHAR + EXIT_CALL_CATEGORY_NAME +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR +
+                    KAppServerConstants.MYSQL_WILDCHARD_CHAR +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR_CHAR + EXIT_CALL_FROM_CATEGORY_NAME +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR + callerEntityId +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR;
+        } else {
+            return BusinessTransactionEntity.BT_METRIC_CATEGORY_PREFIX +
+                    KAppServerConstants.MYSQL_WILDCHARD_CHAR +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR_CHAR + COMPONENT_CATEGORY_NAME +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR + calleeEntityId +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR_CHAR + EXIT_CALL_CATEGORY_NAME +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR +
+                    KAppServerConstants.MYSQL_WILDCHARD_CHAR +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR_CHAR + EXIT_CALL_FROM_CATEGORY_NAME +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR +
+                    TransactionFlowItemIdentifier.FEDERATED_APPLICATION_PREFIX +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR + callerEntityId +
+                    PerformanceCounter.METRIC_PATH_SEPARATOR_CHAR + EXIT_CALL_FROM_CATEGORY_NAME +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR + 
+                    TransactionFlowItemIdentifier.FEDERATED_COMPONENT_PREFIX +
+                    PerformanceCounter.CATEGORY_INSTANCE_SEPARATOR_CHAR +
+                    KAppServerConstants.MYSQL_WILDCHARD_CHAR+
+                    PerformanceCounter.METRIC_PATH_SEPARATOR;
+
+        }
+    }

@@ -1,0 +1,20 @@
+<custom-interceptors>
+
+    <custom-interceptor>
+        <interceptor-class-name>com.singularity.DebugInterceptor</interceptor-class-name>
+        <match-class type="inherits-from-class">
+            <name filter-type="equals">com.singularity.ee.controller.autoregistration.AgentAutoRegistrationUtil</name>
+        </match-class>
+        <match-method>
+            <name>autoRegisterMachineAgent</name>
+        </match-method>
+
+        <configuration name="PARAMS_INFO" stack-trace="false">
+            <data name="registrationInfo" type="param" param-index="0" operation="getter-chain" operation-config="toString()"/>
+            <data name="machine" type="param" param-index="1" operation="getter-chain" operation-config="toString()"/>
+	    <data name="getAgentRegistrationInfos" type="param" param-index="0" operation="getter-chain" operation-config="getAgentRegistrationInfos().iterator().next().toString()"/>
+        </configuration>
+    </custom-interceptor>
+    
+</custom-interceptors>
+

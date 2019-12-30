@@ -1,4 +1,6 @@
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -41,14 +43,12 @@ public class TestMap {
     }
 
     public static void main(String[] args) {
-        List<Test> list = new ArrayList<>();
-        list.add(new Test(1, "kakaka"));
-        list.add(new Test(1, "heieh"));
-        list.add(new Test(2, "hengheng"));
-        list.add(new Test(2, "xixi"));
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(1, 1);
+        map.put(2, 2);
 
-//        Map<Integer, Set<Test>> id2Names = list.stream().collect(Collectors
-//                .groupingBy(Test::getId, Collector.of(0, (a, t) -> )));
-//        System.out.println(id2Names);
+        System.out.println(map);
+        map.keySet().retainAll(Arrays.asList(1));
+        System.out.println(map);
     }
 }

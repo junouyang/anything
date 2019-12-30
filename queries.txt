@@ -1,5 +1,14 @@
-Process cpu %
-select node_id, avg(sum_val / count_val)  from  metricdata_min where metric_id in (select id from metric where name like 'JVM|Process CPU Usage %') and ts_min > floor((unix_timestamp() / 60) - 4*60) group by node_id by node_id;
-
-Heap Usage %
-select node_id, avg(sum_val / count_val)  from  metricdata_min where metric_id in (select id from metric where name like 'JVM|Memory:Heap|Used %') and ts_min > floor((unix_timestamp() / 60) - 4*60) group by node_id by node_id;
+request.setRequestHeader(":authority", "ankiuser.net")
+request.setRequestHeader(":method", "POST")
+request.setRequestHeader(":path", "/edit/save")
+request.setRequestHeader(":scheme", "https")
+request.setRequestHeader("accept", "*/*")
+request.setRequestHeader("accept-encoding", "gzip, deflate, br")
+request.setRequestHeader("accept-language", "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7")
+request.setRequestHeader("content-type", "application/x-www-form-urlencoded; charset=UTF-8")
+request.setRequestHeader("cookie", "ankiweb=xbEerRpKoMJ1zYcv")
+request.setRequestHeader("origin", "https://ankiuser.net")
+request.setRequestHeader("referer", "https://ankiuser.net/edit/")
+request.setRequestHeader("sec-fetch-mode", "cors")
+request.setRequestHeader("sec-fetch-site", "same-origin")
+request.setRequestHeader("user-agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36")

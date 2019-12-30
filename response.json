@@ -1,0 +1,487 @@
+[ {
+  "btListEntry" : {
+    "id" : 1,
+    "name" : "/backend1",
+    "entryPointType" : "SERVLET",
+    "applicationComponentName" : "bookservice",
+    "performanceState" : null,
+    "isOverflowBT" : false,
+    "isPerformanceDataAvailable" : false,
+    "componentId" : 16,
+    "extremelySlow" : 0.0,
+    "extremelySlowPercentage" : 0.0,
+    "slow" : 0.0,
+    "slowPercentage" : 0.0,
+    "stalls" : 0.0,
+    "stallsPercentage" : 0.0,
+    "averageBlockTime" : 0.0,
+    "averageCpuUsed" : 0.0,
+    "averageWaitTime" : 0.0,
+    "callsPerMinute" : 0.0,
+    "averageResponseTime" : 0.0,
+    "pearsonCoefficient" : 0.0,
+    "errorsPerMinute" : 0.0,
+    "numberOfErrors" : 0.0,
+    "numberOfCalls" : 0.0,
+    "errorPercentage" : 0.0,
+    "isGroup" : false,
+    "groupMembers" : null,
+    "isCollectingOnDemandSnapshots" : false,
+    "isAutoDiscovered" : true,
+    "isBackground" : false,
+    "isPermanent" : false,
+    "originalName" : "/backend1",
+    "responseMaxTime" : 0,
+    "responseMinTime" : 0,
+    "endToEndLatencyTime" : 0.0
+  },
+  "children" : [ {
+    "stats" : {
+      "averageResponseTime" : {
+        "metricId" : 1842,
+        "value" : 52.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 52,
+          "min" : 0,
+          "max" : 67468,
+          "current" : 34,
+          "sum" : 4677250,
+          "count" : 90781,
+          "useRange" : true,
+          "groupCount" : 100,
+          "standardDeviation" : 0.0,
+          "occurances" : 33
+        }
+      },
+      "endToEndLatencyTime" : {
+        "metricId" : 0,
+        "value" : 0.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : null
+      },
+      "callsPerMinute" : {
+        "metricId" : 1843,
+        "value" : 59.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 59,
+          "min" : 0,
+          "max" : 0,
+          "current" : 60,
+          "sum" : 90781,
+          "count" : 1537,
+          "useRange" : false,
+          "groupCount" : 100,
+          "standardDeviation" : 0.0,
+          "occurances" : 33
+        }
+      },
+      "errorsPerMinute" : {
+        "metricId" : 1844,
+        "value" : 30.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 30,
+          "min" : 0,
+          "max" : 0,
+          "current" : 30,
+          "sum" : 45391,
+          "count" : 1537,
+          "useRange" : false,
+          "groupCount" : 100,
+          "standardDeviation" : 0.0,
+          "occurances" : 33
+        }
+      },
+      "numberOfErrors" : {
+        "metricId" : -1,
+        "value" : 45391.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 45391,
+          "min" : 0,
+          "max" : 0,
+          "current" : 0,
+          "sum" : 0,
+          "count" : 0,
+          "useRange" : false,
+          "groupCount" : 0,
+          "standardDeviation" : 0.0,
+          "occurances" : 0
+        }
+      },
+      "numberOfCalls" : {
+        "metricId" : -1,
+        "value" : 90781.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 90781,
+          "min" : 0,
+          "max" : 0,
+          "current" : 0,
+          "sum" : 0,
+          "count" : 0,
+          "useRange" : false,
+          "groupCount" : 0,
+          "standardDeviation" : 0.0,
+          "occurances" : 0
+        }
+      },
+      "artDefined" : false,
+      "errorPercentage" : 50.00055
+    },
+    "pathNames" : [ {
+      "name" : "bookservice",
+      "exitPointType" : null,
+      "entityDefinition" : {
+        "id" : 0,
+        "version" : 0,
+        "entityType" : "APPLICATION_COMPONENT",
+        "entityId" : 16,
+        "prettyToString" : null
+      }
+    } ],
+    "btId" : 1
+  }, {
+    "stats" : {
+      "averageResponseTime" : {
+        "metricId" : 1835,
+        "value" : 100.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 100,
+          "min" : 0,
+          "max" : 26500,
+          "current" : 53,
+          "sum" : 4520441,
+          "count" : 45401,
+          "useRange" : true,
+          "groupCount" : 100,
+          "standardDeviation" : 0.0,
+          "occurances" : 33
+        }
+      },
+      "endToEndLatencyTime" : {
+        "metricId" : 0,
+        "value" : 0.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : null
+      },
+      "callsPerMinute" : {
+        "metricId" : 1836,
+        "value" : 30.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 30,
+          "min" : 0,
+          "max" : 0,
+          "current" : 30,
+          "sum" : 45401,
+          "count" : 1537,
+          "useRange" : false,
+          "groupCount" : 100,
+          "standardDeviation" : 0.0,
+          "occurances" : 33
+        }
+      },
+      "errorsPerMinute" : {
+        "metricId" : 1837,
+        "value" : 0.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : null
+      },
+      "numberOfErrors" : {
+        "metricId" : -1,
+        "value" : 0.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 0,
+          "min" : 0,
+          "max" : 0,
+          "current" : 0,
+          "sum" : 0,
+          "count" : 0,
+          "useRange" : false,
+          "groupCount" : 0,
+          "standardDeviation" : 0.0,
+          "occurances" : 0
+        }
+      },
+      "numberOfCalls" : {
+        "metricId" : -1,
+        "value" : 45401.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 45401,
+          "min" : 0,
+          "max" : 0,
+          "current" : 0,
+          "sum" : 0,
+          "count" : 0,
+          "useRange" : false,
+          "groupCount" : 0,
+          "standardDeviation" : 0.0,
+          "occurances" : 0
+        }
+      },
+      "artDefined" : false,
+      "errorPercentage" : 0.0
+    },
+    "pathNames" : [ {
+      "name" : "bookservice",
+      "exitPointType" : null,
+      "entityDefinition" : {
+        "id" : 0,
+        "version" : 0,
+        "entityType" : "APPLICATION_COMPONENT",
+        "entityId" : 16,
+        "prettyToString" : null
+      }
+    } ],
+    "btId" : 1
+  } ]
+}, {
+  "btListEntry" : {
+    "id" : 3,
+    "name" : "/backend2",
+    "entryPointType" : "SERVLET",
+    "applicationComponentName" : "bookservice",
+    "performanceState" : null,
+    "isOverflowBT" : false,
+    "isPerformanceDataAvailable" : false,
+    "componentId" : 16,
+    "extremelySlow" : 0.0,
+    "extremelySlowPercentage" : 0.0,
+    "slow" : 0.0,
+    "slowPercentage" : 0.0,
+    "stalls" : 0.0,
+    "stallsPercentage" : 0.0,
+    "averageBlockTime" : 0.0,
+    "averageCpuUsed" : 0.0,
+    "averageWaitTime" : 0.0,
+    "callsPerMinute" : 0.0,
+    "averageResponseTime" : 0.0,
+    "pearsonCoefficient" : 0.0,
+    "errorsPerMinute" : 0.0,
+    "numberOfErrors" : 0.0,
+    "numberOfCalls" : 0.0,
+    "errorPercentage" : 0.0,
+    "isGroup" : false,
+    "groupMembers" : null,
+    "isCollectingOnDemandSnapshots" : false,
+    "isAutoDiscovered" : true,
+    "isBackground" : false,
+    "isPermanent" : false,
+    "originalName" : "/backend2",
+    "responseMaxTime" : 0,
+    "responseMinTime" : 0,
+    "endToEndLatencyTime" : 0.0
+  },
+  "children" : [ {
+    "stats" : {
+      "averageResponseTime" : {
+        "metricId" : 1857,
+        "value" : 51.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 51,
+          "min" : 0,
+          "max" : 1025,
+          "current" : 87,
+          "sum" : 4609607,
+          "count" : 90780,
+          "useRange" : true,
+          "groupCount" : 100,
+          "standardDeviation" : 0.0,
+          "occurances" : 33
+        }
+      },
+      "endToEndLatencyTime" : {
+        "metricId" : 0,
+        "value" : 0.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : null
+      },
+      "callsPerMinute" : {
+        "metricId" : 1858,
+        "value" : 59.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 59,
+          "min" : 0,
+          "max" : 0,
+          "current" : 60,
+          "sum" : 90780,
+          "count" : 1537,
+          "useRange" : false,
+          "groupCount" : 100,
+          "standardDeviation" : 0.0,
+          "occurances" : 33
+        }
+      },
+      "errorsPerMinute" : {
+        "metricId" : 1859,
+        "value" : 30.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 30,
+          "min" : 0,
+          "max" : 0,
+          "current" : 30,
+          "sum" : 45391,
+          "count" : 1537,
+          "useRange" : false,
+          "groupCount" : 100,
+          "standardDeviation" : 0.0,
+          "occurances" : 33
+        }
+      },
+      "numberOfErrors" : {
+        "metricId" : -1,
+        "value" : 45391.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 45391,
+          "min" : 0,
+          "max" : 0,
+          "current" : 0,
+          "sum" : 0,
+          "count" : 0,
+          "useRange" : false,
+          "groupCount" : 0,
+          "standardDeviation" : 0.0,
+          "occurances" : 0
+        }
+      },
+      "numberOfCalls" : {
+        "metricId" : -1,
+        "value" : 90780.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 90780,
+          "min" : 0,
+          "max" : 0,
+          "current" : 0,
+          "sum" : 0,
+          "count" : 0,
+          "useRange" : false,
+          "groupCount" : 0,
+          "standardDeviation" : 0.0,
+          "occurances" : 0
+        }
+      },
+      "artDefined" : false,
+      "errorPercentage" : 50.001102
+    },
+    "pathNames" : [ {
+      "name" : "bookservice",
+      "exitPointType" : null,
+      "entityDefinition" : {
+        "id" : 0,
+        "version" : 0,
+        "entityType" : "APPLICATION_COMPONENT",
+        "entityId" : 16,
+        "prettyToString" : null
+      }
+    } ],
+    "btId" : 3
+  }, {
+    "stats" : {
+      "averageResponseTime" : {
+        "metricId" : 1850,
+        "value" : 102.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 102,
+          "min" : 0,
+          "max" : 54627,
+          "current" : 57,
+          "sum" : 4609430,
+          "count" : 45401,
+          "useRange" : true,
+          "groupCount" : 100,
+          "standardDeviation" : 0.0,
+          "occurances" : 33
+        }
+      },
+      "endToEndLatencyTime" : {
+        "metricId" : 0,
+        "value" : 0.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : null
+      },
+      "callsPerMinute" : {
+        "metricId" : 1851,
+        "value" : 30.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 30,
+          "min" : 0,
+          "max" : 0,
+          "current" : 30,
+          "sum" : 45401,
+          "count" : 1537,
+          "useRange" : false,
+          "groupCount" : 100,
+          "standardDeviation" : 0.0,
+          "occurances" : 33
+        }
+      },
+      "errorsPerMinute" : {
+        "metricId" : 1852,
+        "value" : 0.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : null
+      },
+      "numberOfErrors" : {
+        "metricId" : -1,
+        "value" : 0.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 0,
+          "min" : 0,
+          "max" : 0,
+          "current" : 0,
+          "sum" : 0,
+          "count" : 0,
+          "useRange" : false,
+          "groupCount" : 0,
+          "standardDeviation" : 0.0,
+          "occurances" : 0
+        }
+      },
+      "numberOfCalls" : {
+        "metricId" : -1,
+        "value" : 45401.0,
+        "standardDeviation" : 0.0,
+        "metricValue" : {
+          "value" : 45401,
+          "min" : 0,
+          "max" : 0,
+          "current" : 0,
+          "sum" : 0,
+          "count" : 0,
+          "useRange" : false,
+          "groupCount" : 0,
+          "standardDeviation" : 0.0,
+          "occurances" : 0
+        }
+      },
+      "artDefined" : false,
+      "errorPercentage" : 0.0
+    },
+    "pathNames" : [ {
+      "name" : "bookservice",
+      "exitPointType" : null,
+      "entityDefinition" : {
+        "id" : 0,
+        "version" : 0,
+        "entityType" : "APPLICATION_COMPONENT",
+        "entityId" : 16,
+        "prettyToString" : null
+      }
+    } ],
+    "btId" : 3
+  } ]
+} ]

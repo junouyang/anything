@@ -1,0 +1,390 @@
+ 1047578,	94,	BTM|Application Summary|Component:721|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1047579,	94,	BTM|Application Summary|Component:721|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1047580,	94,	BTM|Application Summary|Component:721|Exit Call:HTTP|From:App:60|From:421|Errors per Minute
+ 1107254,	58,	BTM|Application Summary|Component:403|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1107255,	58,	BTM|Application Summary|Component:403|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1331812,	68,	BTM|Application Summary|Component:487|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1331813,	68, BTM|Application Summary|Component:487|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1331814,	68,	BTM|Application Summary|Component:487|Exit Call:HTTP|From:App:60|From:421|Errors per Minute
+ 1349060,	49,	BTM|Application Summary|Component:353|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1349061,	49,	BTM|Application Summary|Component:353|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1356164,	63,	BTM|Application Summary|Component:442|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1356165,	63,	BTM|Application Summary|Component:442|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1392446,	81,	BTM|Application Summary|Component:604|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1392447,	81,	BTM|Application Summary|Component:604|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1392450,	54,	BTM|Application Summary|Component:374|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1392451,	54,	BTM|Application Summary|Component:374|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1392454,	82,	BTM|Application Summary|Component:613|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1392455,	82,	BTM|Application Summary|Component:613|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1392458,	92,	BTM|Application Summary|Component:703|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1392459,	92,	BTM|Application Summary|Component:703|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1392462,	59,	BTM|Application Summary|Component:412|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1392463,	59,	BTM|Application Summary|Component:412|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1392466,	78,	BTM|Application Summary|Component:577|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1392467,	78,	BTM|Application Summary|Component:577|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1392472,	65,	BTM|Application Summary|Component:460|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1392473,	65,	BTM|Application Summary|Component:460|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1393242,	95,	BTM|Application Summary|Component:730|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1393243,	95,	BTM|Application Summary|Component:730|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1412533,	85,	BTM|Application Summary|Component:640|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1412534,	85,	BTM|Application Summary|Component:640|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1493672,	62,	BTM|Application Summary|Component:433|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1493673,	62,	BTM|Application Summary|Component:433|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1493678,	49,	BTM|Application Summary|Component:938|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1493679,	49,	BTM|Application Summary|Component:938|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1493680,	49,	BTM|Application Summary|Component:938|Exit Call:HTTP|From:App:60|From:421|Errors per Minute
+ 1493684,	87,	BTM|Application Summary|Component:658|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1493685,	87,	BTM|Application Summary|Component:658|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1493686,	87,	BTM|Application Summary|Component:658|Exit Call:HTTP|From:App:60|From:421|Errors per Minute
+ 1493690,	72,	BTM|Application Summary|Component:523|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1493691,	72,	BTM|Application Summary|Component:523|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1695592,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1695593,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1696064,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:421|Errors per Minute
+ 1767140,	81,	BTM|Application Summary|Component:604|Exit Call:HTTP|From:App:60|From:421|Errors per Minute
+ 1800714,	80,	BTM|Application Summary|Component:595|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1800715,	80,	BTM|Application Summary|Component:595|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1800752,	73,	BTM|Application Summary|Component:973|Exit Call:HTTP|From:App:60|From:421|Average Response Time (ms)
+ 1800753,	73,	BTM|Application Summary|Component:973|Exit Call:HTTP|From:App:60|From:421|Calls per Minute
+ 1800754,	73,	BTM|Application Summary|Component:973|Exit Call:HTTP|From:App:60|From:421|Errors per Minute
+ 1721015,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:422|Average Response Time (ms)
+ 1721016,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:422|Calls per Minute
+ 382414,	49,	BTM|Application Summary|Component:358|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 382415,	49,	BTM|Application Summary|Component:358|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 389586,	59,	BTM|Application Summary|Component:417|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 389587,	59,	BTM|Application Summary|Component:417|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 411848,	54,	BTM|Application Summary|Component:379|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 411849,	54,	BTM|Application Summary|Component:379|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 698335,	81,	BTM|Application Summary|Component:609|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 698336,	81,	BTM|Application Summary|Component:609|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 705561,	82,	BTM|Application Summary|Component:618|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 705562,	82,	BTM|Application Summary|Component:618|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 727151,	78,	BTM|Application Summary|Component:582|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 727152,	78,	BTM|Application Summary|Component:582|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 757020,	58,	BTM|Application Summary|Component:408|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 757021,	58,	BTM|Application Summary|Component:408|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 793810,	65,	BTM|Application Summary|Component:465|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 793811,	65,	BTM|Application Summary|Component:465|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 817003,	72,	BTM|Application Summary|Component:528|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 817004,	72,	BTM|Application Summary|Component:528|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 817005,	72,	BTM|Application Summary|Component:528|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 822541,	92,	BTM|Application Summary|Component:708|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 822542,	92,	BTM|Application Summary|Component:708|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 874628,	89,	BTM|Application Summary|Component:681|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 874629,	89,	BTM|Application Summary|Component:681|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 876911,	66,	BTM|Application Summary|Component:474|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 876912,	66,	BTM|Application Summary|Component:474|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 909726,	62,	BTM|Application Summary|Component:438|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 909727,	62,	BTM|Application Summary|Component:438|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 932549,	70,	BTM|Application Summary|Component:510|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 932550,	70,	BTM|Application Summary|Component:510|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 977066,	94,	BTM|Application Summary|Component:726|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 977067,	94,	BTM|Application Summary|Component:726|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 979661,	75,	BTM|Application Summary|Component:555|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 979662,	75,	BTM|Application Summary|Component:555|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 982005,	87,	BTM|Application Summary|Component:663|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 982006,	87,	BTM|Application Summary|Component:663|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 986643,	80,	BTM|Application Summary|Component:600|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 986644,	80,	BTM|Application Summary|Component:600|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1008664,	63,	BTM|Application Summary|Component:447|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1008665,	63,	BTM|Application Summary|Component:447|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1064433,	82,	BTM|Application Summary|Component:618|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1077129,	95,	BTM|Application Summary|Component:735|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1077130,	95,	BTM|Application Summary|Component:735|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1090778,	64,	BTM|Application Summary|Component:456|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1090779,	64,	BTM|Application Summary|Component:456|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1152014,	99,	BTM|Application Summary|Component:774|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1152015,	99,	BTM|Application Summary|Component:774|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1192848,	68,	BTM|Application Summary|Component:492|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1192849,	68,	BTM|Application Summary|Component:492|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1204040,	68,	BTM|Application Summary|Component:492|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1279751,	74,	BTM|Application Summary|Component:546|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1279752,	74,	BTM|Application Summary|Component:546|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1284259,	88,	BTM|Application Summary|Component:672|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1284260,	88,	BTM|Application Summary|Component:672|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1301818,	78,	BTM|Application Summary|Component:582|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1309975,	85,	BTM|Application Summary|Component:645|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1309976,	85,	BTM|Application Summary|Component:645|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1367967,	117,	BTM|Application Summary|Component:872|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1367968,	117,	BTM|Application Summary|Component:872|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1406196,	92,	BTM|Application Summary|Component:708|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1408886,	73,	BTM|Application Summary|Component:537|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1408887,	73,	BTM|Application Summary|Component:537|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1423789,	94,	BTM|Application Summary|Component:726|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1427605,	80,	BTM|Application Summary|Component:600|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1510144,	77,	BTM|Application Summary|Component:573|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1510145,	77,	BTM|Application Summary|Component:573|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1530287,	81,	BTM|Application Summary|Component:609|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1537192,	136,	BTM|Application Summary|Component:933|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1537193,	136,	BTM|Application Summary|Component:933|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1568872,	117,	BTM|Application Summary|Component:872|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1694741,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:424|Average Response Time (ms)
+ 1694742,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:424|Calls per Minute
+ 1696623,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1700057, 89,	BTM|Application Summary|Component:681|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1708350,	99,	BTM|Application Summary|Component:774|Exit Call:HTTP|From:App:60|From:424|Errors per Minute
+ 1855039,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:425|Average Response Time (ms)
+ 1855040,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:425|Calls per Minute
+ 1855483,	55,	BTM|Application Summary|Component:387|Exit Call:HTTP|From:App:60|From:425|Average Response Time (ms)
+ 1855484,	55,	BTM|Application Summary|Component:387|Exit Call:HTTP|From:App:60|From:425|Calls per Minute
+ 1856522,	138,	BTM|Application Summary|Component:945|Exit Call:HTTP|From:App:60|From:425|Average Response Time (ms)
+ 1856523,	138,	BTM|Application Summary|Component:945|Exit Call:HTTP|From:App:60|From:425|Calls per Minute
+ 362059,	49,	BTM|Application Summary|Component:358|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 362060,	49,	BTM|Application Summary|Component:358|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 362128,	59,	BTM|Application Summary|Component:417|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 362129,	59,	BTM|Application Summary|Component:417|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 363277,	58,	BTM|Application Summary|Component:408|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 363278,	58,	BTM|Application Summary|Component:408|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 368825,	54,	BTM|Application Summary|Component:379|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 368826,	54,	BTM|Application Summary|Component:379|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 380659,	58,	BTM|Application Summary|Component:408|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 384410,	59,	BTM|Application Summary|Component:417|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 391579,	19,	BTM|Application Summary|Component:26|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 391580,	19,	BTM|Application Summary|Component:26|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 391581,	19,	BTM|Application Summary|Component:26|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 412403,	23,	BTM|Application Summary|Component:59|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 412404,	23,	BTM|Application Summary|Component:59|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 419247,	20,	BTM|Application Summary|Component:33|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 419248,	20,	BTM|Application Summary|Component:33|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 470996,	62, BTM|Application Summary|Component:438|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 470998,	62,	BTM|Application Summary|Component:438|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 491289,	94, BTM|Application Summary|Component:726|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 491290,	94,	BTM|Application Summary|Component:726|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 510471,	78, BTM|Application Summary|Component:582|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 510472,	78,	BTM|Application Summary|Component:582|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 515345,	65, BTM|Application Summary|Component:465|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 515346,	65,	BTM|Application Summary|Component:465|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 516058,	72, BTM|Application Summary|Component:528|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 516059,	72,	BTM|Application Summary|Component:528|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 516734,	95, BTM|Application Summary|Component:735|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 516735,	95,	BTM|Application Summary|Component:735|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 518335,	92, BTM|Application Summary|Component:708|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 518336,	92,	BTM|Application Summary|Component:708|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 518845,	81,	BTM|Application Summary|Component:609|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 518846,	81,	BTM|Application Summary|Component:609|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 519036,	87,	BTM|Application Summary|Component:663|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 519037,	87,	BTM|Application Summary|Component:663|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 520400,	82,	BTM|Application Summary|Component:618|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 520401,	82,	BTM|Application Summary|Component:618|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 522165,	64,	BTM|Application Summary|Component:456|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 522166,	64,	BTM|Application Summary|Component:456|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 522729,	85,	BTM|Application Summary|Component:645|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 522730,	85,	BTM|Application Summary|Component:645|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 524829,	77,	BTM|Application Summary|Component:573|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 524830,	77,	BTM|Application Summary|Component:573|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 525727,	68,	BTM|Application Summary|Component:492|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 525728,	68,	BTM|Application Summary|Component:492|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 526294,	70,	BTM|Application Summary|Component:510|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 526295,	70,	BTM|Application Summary|Component:510|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 526484,	63,	BTM|Application Summary|Component:447|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 526485,	63,	BTM|Application Summary|Component:447|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 531009,	89,	BTM|Application Summary|Component:681|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 531010,	89,	BTM|Application Summary|Component:681|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 542513,	80,	BTM|Application Summary|Component:600|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 542514,	80,	BTM|Application Summary|Component:600|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 566854,	73,	BTM|Application Summary|Component:537|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 566855,	73,	BTM|Application Summary|Component:537|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 567379,	71,	BTM|Application Summary|Component:519|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 567380,	71,	BTM|Application Summary|Component:519|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 594772,	74,	BTM|Application Summary|Component:546|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 594773,	74,	BTM|Application Summary|Component:546|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 596458,	75,	BTM|Application Summary|Component:555|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 596459,	75,	BTM|Application Summary|Component:555|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 600953,	76,	BTM|Application Summary|Component:564|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 600954,	76,	BTM|Application Summary|Component:564|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 628893,	88,	BTM|Application Summary|Component:672|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 628894,	88,	BTM|Application Summary|Component:672|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 632589,	79,	BTM|Application Summary|Component:591|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 632590,	79,	BTM|Application Summary|Component:591|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 645408,	84,	BTM|Application Summary|Component:636|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 645409,	84,	BTM|Application Summary|Component:636|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 652436,	67,	BTM|Application Summary|Component:483|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 652437,	67,	BTM|Application Summary|Component:483|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 654446,	78,	BTM|Application Summary|Component:582|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 668900,	82,	BTM|Application Summary|Component:618|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 676158,	83,	BTM|Application Summary|Component:627|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 676159,	83, BTM|Application Summary|Component:627|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 693626,	72,	BTM|Application Summary|Component:528|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 720395,	85,	BTM|Application Summary|Component:645|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 724181,	90,	BTM|Application Summary|Component:690|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 724182,	90, BTM|Application Summary|Component:690|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 726804,	68,	BTM|Application Summary|Component:492|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 726856,	70,	BTM|Application Summary|Component:510|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 792995,	80,	BTM|Application Summary|Component:600|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 807888,	87, BTM|Application Summary|Component:663|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 843182,	66,	BTM|Application Summary|Component:474|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 843183,	66,	BTM|Application Summary|Component:474|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 847332,	86,	BTM|Application Summary|Component:654|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 847333,	86,	BTM|Application Summary|Component:654|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 855007,	69,	BTM|Application Summary|Component:501|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 855008,	69,	BTM|Application Summary|Component:501|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 913009,	79,	BTM|Application Summary|Component:591|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 922278,	62, BTM|Application Summary|Component:438|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 944062,	96,	BTM|Application Summary|Component:744|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 944063,	96,	BTM|Application Summary|Component:744|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 953284,	77,	BTM|Application Summary|Component:573|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1006567,	94,	BTM|Application Summary|Component:726|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1022678,	73,	BTM|Application Summary|Component:537|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1045556,	92,	BTM|Application Summary|Component:708|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1059712,	95,	BTM|Application Summary|Component:735|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1081403,	63,	BTM|Application Summary|Component:447|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1098907,	74,	BTM|Application Summary|Component:546|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1107278,	54,	BTM|Application Summary|Component:379|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1109711,	64,	BTM|Application Summary|Component:456|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1124281,	97,	BTM|Application Summary|Component:756|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1124282,	97,	BTM|Application Summary|Component:756|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1129623,	100,	BTM|Application Summary|Component:783|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1129624,	100,	BTM|Application Summary|Component:783|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1138052, 99,	BTM|Application Summary|Component:774|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1138053,	99,	BTM|Application Summary|Component:774|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1156700,	99,	BTM|Application Summary|Component:774|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1173946,	100,	BTM|Application Summary|Component:783|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1178193,	24,	BTM|Application Summary|Component:67|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1178194,	24,	BTM|Application Summary|Component:67|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1195400,	110,	BTM|Application Summary|Component:837|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1195401,	110,	BTM|Application Summary|Component:837|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1277585,	81,	BTM|Application Summary|Component:609|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1282773,	89,	BTM|Application Summary|Component:681|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1284976,	55,	BTM|Application Summary|Component:387|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1284977,	55,	BTM|Application Summary|Component:387|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1298543,	55,	BTM|Application Summary|Component:387|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1347493,	91,	BTM|Application Summary|Component:699|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1347494,	91,	BTM|Application Summary|Component:699|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1352474,	49,	BTM|Application Summary|Component:358|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1386315,	136,	BTM|Application Summary|Component:933|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1386316,	136,	BTM|Application Summary|Component:933|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1397169,	136,	BTM|Application Summary|Component:933|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1401525,	138,	BTM|Application Summary|Component:945|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1401526,	138,	BTM|Application Summary|Component:945|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1426665,	138,	BTM|Application Summary|Component:945|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1434885,	149,	BTM|Application Summary|Component:988|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1434886,	149,	BTM|Application Summary|Component:988|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1494631,	97,	BTM|Application Summary|Component:756|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1515561,	149,	BTM|Application Summary|Component:988|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1549769,	71,	BTM|Application Summary|Component:519|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1572903,	83,	BTM|Application Summary|Component:627|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1677024,	84,	BTM|Application Summary|Component:636|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1681194,	191,	BTM|Application Summary|Component:1149|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1681195,	191,	BTM|Application Summary|Component:1149|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1681468,	191,	BTM|Application Summary|Component:1149|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1694979,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:426|Average Response Time (ms)
+ 1694980,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:426|Calls per Minute
+ 1696515,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:426|Errors per Minute
+ 1084428,	20,	BTM|Application Summary|Component:44|Exit Call:HTTP|From:App:60|From:427|Average Response Time (ms)
+ 1084429,	20,	BTM|Application Summary|Component:44|Exit Call:HTTP|From:App:60|From:427|Calls per Minute
+ 1285292,	55,	BTM|Application Summary|Component:387|Exit Call:HTTP|From:App:60|From:427|Average Response Time (ms)
+ 1285293,	55,	BTM|Application Summary|Component:387|Exit Call:HTTP|From:App:60|From:427|Calls per Minute
+ 1401554,	138,	BTM|Application Summary|Component:945|Exit Call:HTTP|From:App:60|From:427|Average Response Time (ms)
+ 1401555,	138,	BTM|Application Summary|Component:945|Exit Call:HTTP|From:App:60|From:427|Calls per Minute
+ 1667309,	55,	BTM|Application Summary|Component:387|Exit Call:HTTP|From:App:60|From:427|Errors per Minute
+ 1670130,	138,	BTM|Application Summary|Component:945|Exit Call:HTTP|From:App:60|From:427|Errors per Minute
+ 1695068,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:427|Average Response Time (ms)
+ 1695069,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:427|Calls per Minute
+ 1816339,	19,	BTM|Application Summary|Component:30|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1818838,	96,	BTM|Application Summary|Component:742|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1818839,	96,	BTM|Application Summary|Component:742|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1818840,	96,	BTM|Application Summary|Component:742|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1819979,	24,	BTM|Application Summary|Component:66|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1819980,	24, BTM|Application Summary|Component:66|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1819981,	24,	BTM|Application Summary|Component:66|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1827304,	23,	BTM|Application Summary|Component:58|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1827305,	23,	BTM|Application Summary|Component:58|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1827306,	23,	BTM|Application Summary|Component:58|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1827604,	90,	BTM|Application Summary|Component:688|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1827605,	90,	BTM|Application Summary|Component:688|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1827606,	90,	BTM|Application Summary|Component:688|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1838977,	69,	BTM|Application Summary|Component:499|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1838978,	69,	BTM|Application Summary|Component:499|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1838979,	69,	BTM|Application Summary|Component:499|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1839002,	93,	BTM|Application Summary|Component:715|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1839003,	93, BTM|Application Summary|Component:715|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1839004,	93,	BTM|Application Summary|Component:715|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1839026,	86,	BTM|Application Summary|Component:652|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1839027,	86,	BTM|Application Summary|Component:652|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1839028,	86,	BTM|Application Summary|Component:652|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1845687,	28,	BTM|Application Summary|Component:98|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1845688,	28,	BTM|Application Summary|Component:98|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1845689, 28,	BTM|Application Summary|Component:98|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1846862,	92,	BTM|Application Summary|Component:706|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1846863,	92,	BTM|Application Summary|Component:706|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1846864,	92,	BTM|Application Summary|Component:706|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1846909,	94,	BTM|Application Summary|Component:724|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1846910,	94, BTM|Application Summary|Component:724|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1846911,	94,	BTM|Application Summary|Component:724|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1847109,	63,	BTM|Application Summary|Component:445|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1847110,	63,	BTM|Application Summary|Component:445|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1847111,	63,	BTM|Application Summary|Component:445|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1847143,	58,	BTM|Application Summary|Component:406|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1847144,	58,	BTM|Application Summary|Component:406|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1847145,	58,	BTM|Application Summary|Component:406|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1852580,	85,	BTM|Application Summary|Component:643|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1852581,	85, BTM|Application Summary|Component:643|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1852582,	85,	BTM|Application Summary|Component:643|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1859067,	19,	BTM|Application Summary|Component:30|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1859068,	19,	BTM|Application Summary|Component:30|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1863422,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:1222|Average Response Time (ms)
+ 1863423,	192, BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:1222|Calls per Minute
+ 1863731,	88,	BTM|Application Summary|Component:670|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1863732,	88,	BTM|Application Summary|Component:670|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1863733,	88,	BTM|Application Summary|Component:670|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1864041,	79,	BTM|Application Summary|Component:589|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1864042,	79,	BTM|Application Summary|Component:589|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1864043,	79,	BTM|Application Summary|Component:589|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1864894,	65,	BTM|Application Summary|Component:463|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1864895,	65,	BTM|Application Summary|Component:463|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1864896,	65,	BTM|Application Summary|Component:463|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1865136,	67,	BTM|Application Summary|Component:481|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1865137,	67, BTM|Application Summary|Component:481|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1865138,	67,	BTM|Application Summary|Component:481|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1865171,	87,	BTM|Application Summary|Component:661|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1865172,	87,	BTM|Application Summary|Component:661|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1865173,	87,	BTM|Application Summary|Component:661|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1865388,	89,	BTM|Application Summary|Component:679|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1865389,	89,	BTM|Application Summary|Component:679|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1865390,	89,	BTM|Application Summary|Component:679|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1865440,	80,	BTM|Application Summary|Component:598|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1865441,	80,	BTM|Application Summary|Component:598|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1865442,	80,	BTM|Application Summary|Component:598|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1865452,	78,	BTM|Application Summary|Component:580|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1865453,	78, BTM|Application Summary|Component:580|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1865454,	78,	BTM|Application Summary|Component:580|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1865458,	91,	BTM|Application Summary|Component:697|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1865459,	91,	BTM|Application Summary|Component:697|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1865460,	91,	BTM|Application Summary|Component:697|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1866130,	72,	BTM|Application Summary|Component:526|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1866131,	72,	BTM|Application Summary|Component:526|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1866132,	72,	BTM|Application Summary|Component:526|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1866426,	84,	BTM|Application Summary|Component:634|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1866427,	84,	BTM|Application Summary|Component:634|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1866428,	84,	BTM|Application Summary|Component:634|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1866522,	82,	BTM|Application Summary|Component:616|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1866523,	82, BTM|Application Summary|Component:616|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1866524,	82,	BTM|Application Summary|Component:616|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1866918,	59,	BTM|Application Summary|Component:415|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1866919,	59,	BTM|Application Summary|Component:415|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1866920,	59,	BTM|Application Summary|Component:415|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1867033,	81,	BTM|Application Summary|Component:607|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1867034,	81,	BTM|Application Summary|Component:607|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1867035,	81,	BTM|Application Summary|Component:607|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1868315,	192,	BTM|Application Summary|Component:1152|Exit Call:HTTP|From:App:60|From:1222|Errors per Minute
+ 1883112,	95,	BTM|Application Summary|Component:733|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1883113,	95,	BTM|Application Summary|Component:733|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1883114,	95,	BTM|Application Summary|Component:733|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1886388,	62,	BTM|Application Summary|Component:436|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1886389,	62,	BTM|Application Summary|Component:436|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1886390,	62,	BTM|Application Summary|Component:436|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1909503,	71,	BTM|Application Summary|Component:517|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1909504,	71,	BTM|Application Summary|Component:517|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1909505,	71,	BTM|Application Summary|Component:517|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1918201,	27,	BTM|Application Summary|Component:90|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1918202,	27, BTM|Application Summary|Component:90|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1918203,	27,	BTM|Application Summary|Component:90|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1983699,	77,	BTM|Application Summary|Component:571|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1983700,	77,	BTM|Application Summary|Component:571|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1983701,	77,	BTM|Application Summary|Component:571|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 1987216,	64,	BTM|Application Summary|Component:454|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 1987217,	64,	BTM|Application Summary|Component:454|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 1987218,	64,	BTM|Application Summary|Component:454|Exit Call:JMS|From:App:42|From:1222|Errors per Minute
+ 2014492,	75,	BTM|Application Summary|Component:553|Exit Call:JMS|From:App:42|From:1222|Average Response Time (ms)
+ 2014493,	75,	BTM|Application Summary|Component:553|Exit Call:JMS|From:App:42|From:1222|Calls per Minute
+ 2014494,	75,	BTM|Application Summary|Component:553|Exit Call:JMS|From:App:42|From:1222|Errors per Minute

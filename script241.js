@@ -1,7 +1,12 @@
+function get_long_value(value) {
+    value = typeof value == "object" && value.getClass().getName() == "java.lang.Double" ? value.longValue() : value;
+    return new java.lang.Long(value);
+}
+
 function convert_to_long_array(int_array) {
     var long_array = [];
     for( var i in int_array ) {
-        long_array.push(new java.lang.Long(int_array[i]));
+        long_array.push(get_long_value(value));
     }
     return long_array;
 }

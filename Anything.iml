@@ -8,5 +8,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scala-sdk-2.11.8" level="application" />
+    <orderEntry type="library" name="jackson-annotations-2.8.10" level="project" />
+    <orderEntry type="library" name="controller-api-4.5.13.277" level="project" />
+    <orderEntry type="library" name="agent-4.5.13.277" level="project" />
+    <orderEntry type="library" name="platform-apm-api-4.5.13.514" level="project" />
+    <orderEntry type="library" name="restui-service-client-4.5.13.2860-all" level="project" />
   </component>
 </module>
